@@ -1,0 +1,8 @@
+{
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "newFileLocation": "current",
+  "livePreview": true,
+  "strictLineBreaks": true,
+  "attachmentFolderPath": "./附件"
+}
